@@ -147,9 +147,9 @@ $s=New-Object -ComObject SAPI.SpVoice
 $s.Rate = -2
 $s.Speak("Mamy cię $FN")
 $s.Speak("Wiemy gdzie jesteś")
-$s.Speak("Nie ukryjesz się")
+$s.Speak("Wiemy wszysko")
 $s.Speak("Śledzimy twoją lokalizacje")
-$s.Speak("Oczekuj nas")
+$s.Speak("Oglądaj się za siebie")
 
 
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------
